@@ -1,0 +1,45 @@
+
+.container{
+    margin: auto;
+    width: 967px;
+    height: 664px;
+    box-shadow: 0px 5px 10px 5px #00000040;
+    padding:  30px;
+    margin-top: 50px;
+
+}
+input {
+    width: 200px;
+    box-shadow: 0px 4px 4px 0px #00000040;
+    border-radius: 8px;
+    border-width: 1px;
+    color: black;
+    padding: 10px; 
+    border: none;
+  margin-left: 15px;
+  
+}
+
+.butt {
+    background-color: #423CF2;
+    color: white;
+    box-shadow: 0px 4px 4px 0px #00000040;
+    border-radius: 8px;
+    padding: 10px 20px; 
+
+    margin-left: 15px;
+    border: none;
+}
+.edit-btn, .delete-btn{
+    cursor: pointer;
+    border: none;
+    background: none;
+    font-size: 18px;
+}
+.delete-btn{
+    color: red;
+}
+li{
+    text-decoration: none;
+    list-style: none;
+}
